@@ -62,7 +62,8 @@ Exploring new technologies and frameworks like Angular and React to build dynami
 Looking for freelance or full-time mobile development opportunities?  
 I'd love to collaborate on exciting projects! Reach out to me via:
 
-- 📧 Email: xx  
+- 📧 Email: yassmine.kharrat23@gmail.com
+- [![Portfolio](https://img.icons8.com/ios-filled/24/000000/portfolio.png)](https://ton-portfolio-url.com) : https://fabskill.com/resume/THM1ZGRwRTIvUnR6VHo3aw~~
 - 🔗 LinkedIn: https://www.linkedin.com/in/yassmine-kharrat/  
 - 🐙 GitHub: https://github.com/yassminekh
 
