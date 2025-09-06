@@ -65,6 +65,7 @@ I'd love to collaborate on exciting projects! Reach out to me via:
 - 📧 Email: yassmine.kharrat23@gmail.com
 - [![Portfolio](https://img.icons8.com/ios-filled/24/000000/portfolio.png)](https://ton-portfolio-url.com) : https://fabskill.com/resume/THM1ZGRwRTIvUnR6VHo3aw~~
 - [![LinkedIn]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://img.icons8.com/ios-filled/24/000000/linkedin.png))](https://www.linkedin.com/in/yassmine-kharrat/)
+- [![LinkedIn](https://img.icons8.com/fluency/24/linkedin.png)](https://www.linkedin.com/in/VOTRE-USERNAME/) : https://www.linkedin.com/in/VOTRE-USERNAME/
 
 - 🐙 GitHub: https://github.com/Yassmine-Kharrat
 
