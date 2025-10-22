@@ -50,10 +50,15 @@ Exploring new technologies and frameworks like Angular and React to build dynami
 
 ## 🌍 Projects
 
-### Cross-Platform Mobile App (Flutter)
-- Built a cross-platform app providing real-time content updates and social features like messaging and notifications.  
+## Banking Mobile App (Flutter)
+- Developed a secure cross-platform banking app enabling users to manage accounts, transfer funds, and view transaction history in real time.  
 - **Tech stack:** Flutter, Dart, Firebase, REST APIs  
-- **Key Features:** Real-time localization, chat functionality, file sharing, notifications
+- **Key Features:** Account management, fund transfers, transaction tracking, real-time notifications, and data security  
+
+## Employee Leave Management Web App
+- Designed and developed a web-based application for managing employees’ annual leave requests and approvals, streamlining HR processes and enhancing transparency.  
+- **Tech stack:** Angular, Node.js, Express, MySQL  
+- **Key Features:** Leave request submission and validation, role-based authentication (admin/employee), real-time notifications, and dashboard analytics  
 
 ---
 
